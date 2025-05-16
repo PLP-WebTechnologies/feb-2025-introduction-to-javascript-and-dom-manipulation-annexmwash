@@ -1,0 +1,9 @@
+body {
+  background-color: #0f69c4;
+  font-family: Arial, sans-serif;
+}
+
+#dynamic-text {
+  color: rgb(245, 239, 239);
+  font-size: 18px;
+}
